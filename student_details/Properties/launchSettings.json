@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "student_details": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\my practice\\student_details_solution"
+    }
+  }
+}
